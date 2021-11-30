@@ -24,5 +24,5 @@ def main():
 
 if __name__ == '__main__':
     main()
-    $ python3 why.py
+    $ python3 quickstart.py
     
